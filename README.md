@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wael-RN
+- 👋 Hi, I’m @Wael Naamah
 - 👀 I’m interested in Programming,
 - 🌱 I’m currently learning Next JS
 - 💞️ I’m looking to collaborate on Github
